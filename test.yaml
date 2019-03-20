@@ -1,6 +1,6 @@
 ---
   - hosts:
-        test
+        myservers
     become: yes
     vars:
         sample: anyvalue
